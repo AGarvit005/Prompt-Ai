@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"@types/cors": "^2.8.19",
+		"@types/express": "^4.17.23",
+		"@types/ws": "^8.18.1"
+	},
+	"dependencies": {
+		"framer-motion": "^12.23.12"
+	}
+}
